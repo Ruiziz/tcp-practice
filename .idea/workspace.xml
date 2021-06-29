@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da91b56b-f0a7-4186-880e-d330e85f64d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/goroot_1_15_13" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1ubhiq5G0k0OjJcpI2bzE9RCfPV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build httpserver/cal/rpc/server">
+    <configuration name="go build httpserver/cal/rpc/client" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="httpserver" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cal/rpc/client/main.go" />
+      <package value="httpserver/cal/rpc/client" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build httpserver/cal/rpc/server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="httpserver" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cal/rpc/server/main.go" />
+      <package value="httpserver/cal/rpc/server" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build httpserver/cal/rpc/server" />
+        <item itemvalue="Go Build.go build httpserver/cal/rpc/client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1264" height="285" key="GridCell.Tab.0.bottom" timestamp="1624955954796">
+      <screen x="0" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1264" height="285" key="GridCell.Tab.0.bottom/0.25.1737.1095/-2560.-110.2560.1415@0.25.1737.1095" timestamp="1624946594610" />
+    <state width="1264" height="285" key="GridCell.Tab.0.bottom/0.25.1738.1095@0.25.1738.1095" timestamp="1624947672773" />
+    <state width="1264" height="285" key="GridCell.Tab.0.bottom/0.25.1739.1095/-2560.-110.2560.1415@0.25.1739.1095" timestamp="1624955954796" />
+    <state width="1264" height="285" key="GridCell.Tab.0.bottom/0.25.1739.1095@0.25.1739.1095" timestamp="1624954073735" />
+    <state width="1264" height="285" key="GridCell.Tab.0.center" timestamp="1624955954795">
+      <screen x="0" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1264" height="285" key="GridCell.Tab.0.center/0.25.1737.1095/-2560.-110.2560.1415@0.25.1737.1095" timestamp="1624946594609" />
+    <state width="1264" height="285" key="GridCell.Tab.0.center/0.25.1738.1095@0.25.1738.1095" timestamp="1624947672773" />
+    <state width="1264" height="285" key="GridCell.Tab.0.center/0.25.1739.1095/-2560.-110.2560.1415@0.25.1739.1095" timestamp="1624955954795" />
+    <state width="1264" height="285" key="GridCell.Tab.0.center/0.25.1739.1095@0.25.1739.1095" timestamp="1624954073734" />
+    <state width="1264" height="285" key="GridCell.Tab.0.left" timestamp="1624955954794">
+      <screen x="0" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1264" height="285" key="GridCell.Tab.0.left/0.25.1737.1095/-2560.-110.2560.1415@0.25.1737.1095" timestamp="1624946594609" />
+    <state width="1264" height="285" key="GridCell.Tab.0.left/0.25.1738.1095@0.25.1738.1095" timestamp="1624947672772" />
+    <state width="1264" height="285" key="GridCell.Tab.0.left/0.25.1739.1095/-2560.-110.2560.1415@0.25.1739.1095" timestamp="1624955954794" />
+    <state width="1264" height="285" key="GridCell.Tab.0.left/0.25.1739.1095@0.25.1739.1095" timestamp="1624954073734" />
+    <state width="1264" height="285" key="GridCell.Tab.0.right" timestamp="1624955954795">
+      <screen x="0" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1264" height="285" key="GridCell.Tab.0.right/0.25.1737.1095/-2560.-110.2560.1415@0.25.1737.1095" timestamp="1624946594610" />
+    <state width="1264" height="285" key="GridCell.Tab.0.right/0.25.1738.1095@0.25.1738.1095" timestamp="1624947672773" />
+    <state width="1264" height="285" key="GridCell.Tab.0.right/0.25.1739.1095/-2560.-110.2560.1415@0.25.1739.1095" timestamp="1624955954795" />
+    <state width="1264" height="285" key="GridCell.Tab.0.right/0.25.1739.1095@0.25.1739.1095" timestamp="1624954073735" />
+    <state width="1264" height="352" key="GridCell.Tab.1.bottom" timestamp="1624946391892">
+      <screen x="0" y="25" width="1737" height="1095" />
+    </state>
+    <state width="1264" height="352" key="GridCell.Tab.1.bottom/0.25.1737.1095/-2560.-110.2560.1415@0.25.1737.1095" timestamp="1624946391892" />
+    <state width="1264" height="352" key="GridCell.Tab.1.center" timestamp="1624946391892">
+      <screen x="0" y="25" width="1737" height="1095" />
+    </state>
+    <state width="1264" height="352" key="GridCell.Tab.1.center/0.25.1737.1095/-2560.-110.2560.1415@0.25.1737.1095" timestamp="1624946391892" />
+    <state width="1264" height="352" key="GridCell.Tab.1.left" timestamp="1624946391891">
+      <screen x="0" y="25" width="1737" height="1095" />
+    </state>
+    <state width="1264" height="352" key="GridCell.Tab.1.left/0.25.1737.1095/-2560.-110.2560.1415@0.25.1737.1095" timestamp="1624946391891" />
+    <state width="1264" height="352" key="GridCell.Tab.1.right" timestamp="1624946391892">
+      <screen x="0" y="25" width="1737" height="1095" />
+    </state>
+    <state width="1264" height="352" key="GridCell.Tab.1.right/0.25.1737.1095/-2560.-110.2560.1415@0.25.1737.1095" timestamp="1624946391892" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cal/rpc/server/main.go</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cal/rpc/server/main.go</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cal/rpc/server/main.go</url>
+          <line>45</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cal/rpc/server/main.go</url>
+          <line>60</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cal/rpc/client/main.go</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cal/rpc/client/main.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cal/rpc/client/main.go</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cal/rpc/client/main.go</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cal/rpc/client/main.go</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cal/rpc/client/main.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
